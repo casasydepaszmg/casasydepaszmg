@@ -1,0 +1,8 @@
+CASAS Y DEPAS ZMG — V1.0
+
+Sube el CONTENIDO de esta carpeta a la raíz del repositorio GitHub.
+En Settings > Pages, publica main / (root).
+
+ATENCIÓN: Catálogo de demostración con propiedades ficticias.
+Antes de operar: configurar WHATSAPP_NUMBER en app.js, reemplazar propiedades por datos reales y completar aviso de privacidad en privacidad.html.
+La conexión Supabase y el panel administrador están pendientes.
